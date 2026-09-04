@@ -16,4 +16,4 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) application tha
 
 ## Status
 
-🚧 Project setup in progress
+🚧 Project setup in progress ,soon
