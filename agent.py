@@ -9,7 +9,7 @@ load_dotenv()
 
 barista_agent = LlmAgent(
     name="barista_agent",
-    model="gemini-2.5-flash",
+    model="gemini-3.6-flash",
     instruction="""
 You are a friendly and professional barista at Coffee Shop.
 
